@@ -1,0 +1,8 @@
+rich
+click 
+loguru 
+pyzmq 
+numpy
+pandas
+opencv-python 
+sentence-transformers
