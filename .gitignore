@@ -1,3 +1,7 @@
+# internal dependencies 
+models/
+fingerprints.pkl 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
